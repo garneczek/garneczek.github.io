@@ -1,0 +1,162 @@
+#calastrona {
+   border-collapse: collapse;
+   background-image: url(https://alovinsaat.az/img/dizayn.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+#gora {
+    margin: 20px;
+    border-collapse: collapse;
+    display: flex;
+}
+#bott {
+    border-collapse: collapse;
+    display: flex;
+    margin-left: 1px;
+    
+}
+#pierwszafota {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    
+}
+#kwadrat {
+    border-collapse: collapse ;
+    margin: 25px; 
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    margin-top: 2px; 
+    
+}
+#kwadrat:hover {
+    background-color: lightgrey;
+}
+#male {
+    height: 400px;
+    width: 500px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-top: 1px;
+}
+#bottdwa {
+    border-collapse: collapse;
+    display: flex;
+    margin-left: 290px;
+    margin-right: 290px;
+    
+    
+}
+
+#raz {
+    border-collapse: collapse ;
+    margin: 50px; 
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+
+}
+#raz {
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-bottom: 25px;
+}
+#druga {
+    margin-bottom: 20px;
+    height: 450px;
+    width: 738px;
+    
+}
+#naglowek {
+
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+#normal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 20px ;
+}
+#onas {
+    background-color: rgb(231, 231, 231); 
+    margin-left: 200px;
+    margin-right: 1100px;
+}
+#dooze {
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+#onasdwa {
+    background-color: rgb(231, 231, 231); 
+    margin-left: 1100px;
+    margin-right: 200px;
+}
+#ikonka {
+    width: 100px;
+    height: 100px;
+    margin-left: 240px;
+}
+#gry {
+    margin: 20px;
+}
+#mapsko {
+    padding-bottom: 25px ;
+}
+#trzecia {
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 25px;
+    border-collapse: collapse ;
+    margin: 50px; 
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    display: flex;
+}
+#nowefoty {
+    width: 350x;
+    height: 250px;
+    margin-left: 50px;
+}
+#trzeciai {
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 25px;
+    border-collapse: collapse ;
+    margin: 50px; 
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+}
+#nowefotyy {
+    width: 400x;
+    height: 300px;
+    margin-left: 50px;
+}
+#tabela {
+    border-collapse: collapse;
+    border: solid black;
+    margin-left: 140px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;   
+}
+table, td, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+li {
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#dooze1 {
+font-size: large;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
